@@ -1,0 +1,17 @@
+.pros{
+    color: rgb(14, 2, 68);
+    font-family: fantasy;
+    font-size:4em;
+}
+.cons{
+    color: purple;
+    font-size:2em;
+}
+.bg1,background{
+        z-index: -1;
+        background-repeat: no-repeat;
+        background-size: cover;
+}
+.item{
+    font-size: 1em;
+}

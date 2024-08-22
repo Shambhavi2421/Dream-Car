@@ -1,0 +1,89 @@
+.bg4{
+    background-repeat: no repeat;
+    background-size: 100%;
+}
+.key{
+    color: rgb(230, 141, 190);
+    font-family: monospace;
+    font-size: 50px;
+}
+.bat{
+    color: rgb(156, 236, 236);
+    font-size: xx-large;
+    margin: 5px 12px;
+}
+#box{
+    margin: 5px 12px;
+    display: flex;
+    box-sizing: border-box;
+    border: 6px;
+    height: 350px;
+    width: 300px;
+    background-color: antiquewhite; 
+    justify-content: center;
+    align-items: center;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+#box:hover{
+    border:4px solid rgb(0, 0, 0);
+    background-color: rgb(212, 185, 238);
+    height: 400px;
+    width: 350px;
+    border-radius: 20px;
+    font-size: 20em                                                                                                                                                                                                                                                                                                                                                                                                                                                    px;
+}
+.mot{
+    color: rgb(156, 236, 236);
+    font-size: xx-large;
+    margin: 5px 500px;
+}
+#box1{
+    margin: 5px 500px;
+    display: flex;
+    box-sizing: border-box;
+    border: 6px;
+    height: 350px;
+    width: 300px;
+    background-color: antiquewhite; 
+    justify-content: center;
+    align-items: center;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+#box1:hover{
+    margin: auto;
+    border:4px solid rgb(0, 0, 0);
+    background-color: rgb(212, 185, 238);
+    height: 400px;
+    width: 350px;
+    border-radius: 20px;
+    font-size: 20em                                                                                                                                                                                                                                                                                                                                                                                                                                                    px;
+}
+.con{
+    color: rgb(156, 236, 236);
+    font-size: xx-large;
+    margin: 5px 1000px;
+}
+#box2{
+    margin: 5px 1000px;
+    text-align: justify;
+    display: flex;
+    box-sizing: border-box;
+    border: 6px;
+    height: 350px;
+    width: 300px;
+    background-color: antiquewhite; 
+    justify-content: center;
+    align-items: center;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+#box2:hover{
+    border:4px solid rgb(0, 0, 0);
+    background-color: rgb(212, 185, 238);
+    height: 400px;
+    width: 350px;
+    border-radius: 20px;
+    font-size: 20em                                                                                                                                                                                                                                                                                                                                                                                                                                                    px;
+}
